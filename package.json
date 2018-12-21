@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/olympum/ble-cycling-power.git"
+    "url": "git+ssh://github.com/matthewl1234/ble-cycling-power.git"
   },
   "keywords": [
     "bluetooth",
@@ -23,7 +23,7 @@
   "author": "Bruno Fernandez-Ruiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/olympum/ble-cycling-power/issues"
+    "url": "https://github.com/matthewl1234/ble-cycling-power/issues"
   },
-  "homepage": "https://github.com/olympum/ble-cycling-power#readme"
+  "homepage": "https://github.com/matthewl1234/ble-cycling-power#readme"
 }
